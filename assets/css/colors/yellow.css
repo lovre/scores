@@ -1,0 +1,161 @@
+a{
+  color: #FBC02D;
+}
+a:hover, a:focus{
+  color: #FBC02D;
+}
+.btn-common{
+    background-color: #FBC02D;
+}
+.slicknav_btn{
+  background-color:#FBC02D; 
+}
+.section-title:before,
+.section-title:after{
+  color: #FBC02D;
+}
+.navbar li.active a.nav-link{
+  color: #FBC02D!important;
+}
+.top-nav-collapse .navbar-nav li.active a.nav-link{
+  color: #FBC02D!important;
+}
+.navbar-expand-lg .navbar-nav li > a:before{
+  background: #FBC02D;
+}
+.navbar-expand-lg .navbar-nav .nav-link:focus, .navbar-expand-lg .navbar-nav .nav-link:hover{
+  color: #FBC02D!important;
+}
+#hero-area .contents .icon i{
+  color: #FBC02D;
+}
+#count .count-wrapper{
+  background: #FBC02D;
+}
+.about-content ul li i{
+  color: #FBC02D;
+}
+.ready-to-play:before{
+  background: #FBC02D;
+}
+#information-bar ul li i{
+  color: #FBC02D;
+}
+.single-intro-text .count-number{
+  background: #FBC02D;
+}
+.single-intro-text:hover i{
+  color: #FBC02D;
+}
+.counter-section .counter .icon{
+  background: #FBC02D;
+}
+.schedule .nav-tabs .nav-item.show .nav-link, .schedule .nav-tabs .nav-link.active, .schedule .nav-tabs .nav-item .nav-link:hover{
+  background: #FBC02D;
+}
+.schedule .nav-tabs .nav-item.show .nav-link:before, .schedule .nav-tabs .nav-link.active:before{
+  border-color: #FBC02D transparent transparent transparent;
+}
+.schedule .card .schedule-slot-time{
+  background: #FBC02D;
+}
+.schedule .card-body .location span{
+  color: #FBC02D;
+}
+.team-item .info-text h3 a:hover{
+  color: #FBC02D;
+}
+#gallery .gallery-box:hover .overlay-box{
+  background: rgba(251, 192, 45, 0.7);
+}
+#gallery .gallery-box .overlay-box i{
+  color: #FBC02D;
+}
+#event-up .event-item .content a{
+  color: #FBC02D;
+}
+#pricing .price-block-wrapper .price h2{
+  color: #FBC02D;
+}
+#pricing .price-block-wrapper .pricing-list ul li i{
+  color: #FBC02D;
+}
+#pricing .active{
+  background: #FBC02D;
+}
+.blog-item .icon{
+  background-color: #FBC02D;
+}
+.blog-item .meta-tags span i{
+  color: #FBC02D;
+}
+.container-form .form-wrapper .form-control:focus{
+  border-color: #FBC02D;
+}
+#contact-text ul li i{
+  color: #FBC02D;
+}
+.subscribe-inner .form-control:focus{
+  border-color: #FBC02D;
+}
+.site-info a:hover{
+  color: #FBC02D;
+}
+a.back-to-top i{
+  background: #FBC02D;
+}
+.sk-circle .sk-child:before {
+  background-color: #FBC02D;
+}
+.page-header ul li{
+  color: #FBC02D;
+}
+.page-header ul li a:hover{
+  color: #FBC02D;
+}
+.blog-post .post-content .meta .meta-part a:hover{
+  color: #FBC02D;
+}
+.post-title a:hover{
+  color: #FBC02D;
+}
+#pagination .current{
+  color: #FBC02D;
+}
+#pagination a:hover{
+  color: #FBC02D;
+}
+.widget-search input[type="search"]:focus{
+  border-color: #FBC02D;
+}
+.widget-title{
+  border-color: #FBC02D;
+}
+#sidebar .posts-list .widget-content a:hover{
+  color: #FBC02D;
+}
+#sidebar .cat-list li a:hover{
+  color: #FBC02D;
+}
+.post-slide .post-content .meta .meta-part a:hover{
+  color: #FBC02D;
+}
+.post-slide .post-content h3 a:hover{
+  color: #FBC02D;
+}
+#sidebar .tag a:hover{
+  color: #FBC02D;
+  border-color: #FBC02D;
+}
+#comments .comment-content .comment-by a:hover{
+  color: #FBC02D;
+}
+#comments .comment-content .comment-date{
+  color: #FBC02D;
+}
+.reply-link{
+  color: #FBC02D;
+}
+.form-control:focus{
+  border-color: #FBC02D;
+}
