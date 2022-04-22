@@ -848,6 +848,10 @@ a.back-to-top:hover, a.back-to-top:focus {
   display: table;
 }
 
+.about-text {
+  text-align: center;
+}
+
 .about-content > div {
   vertical-align: middle;
   display: table-cell;
@@ -883,6 +887,20 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 .about-content ul li i {
   position: absolute;
+  left: 0;
+  top: 7px;
+  font-size: 16px;
+  color: #cf3d32;
+}
+
+.about-content div span {
+  margin-top: 4px;
+  margin-bottom: 4px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.about-content div span i {
   left: 0;
   top: 7px;
   font-size: 16px;
