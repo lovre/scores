@@ -58,8 +58,11 @@
 
 /* only small tablets */
 @media (min-width: 768px) and (max-width: 991px) {
-  #hero-area .contents .head-title {
+  #hero-area .contents {
     font-size: 36px;
+  }
+  .head-title {
+    font-size: 40px;
   }
   #information-bar ul {
     text-align: left;
@@ -126,9 +129,12 @@
   #hero-area .contents {
     padding: 100px 0;
   }
-  #hero-area .contents .head-title {
+  #hero-area .contents {
     font-size: 20px;
     margin-bottom: 10px;
+  }
+  .head-title {
+    font-size: 40px;
   }
   #hero-area .contents .btn-date {
     font-size: 12px;
