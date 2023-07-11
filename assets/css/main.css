@@ -1139,8 +1139,12 @@ h1 {
   font-weight: 700;
 }
 
-/* Sponsors Area */
-#sponsors {
+/* Schedule Area */
+#program {
+  background: #f3f4f3;
+}
+
+#pastevents {
   background: url(../img/background.jpg) no-repeat center;
   background-attachment: scroll;
   background-size: auto auto;
@@ -1149,30 +1153,25 @@ h1 {
   position: relative;
 }
 
-#sponsors .section-title-header .section-title {
+#pastevents .section-title-header .section-title {
   color: #fff;
 }
 
-#sponsors .section-title-header p {
+#pastevents .section-title-header p {
   color: #fff;
 }
 
-#sponsors .sponsors-logo a img {
+#sponspasteventsors .sponsors-logo a img {
   margin: 30px;
 }
 
-#sponsors .spnsors-logo:hover {
+#pastevents .spnsors-logo:hover {
   border-color: transparent;
   box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.2);
 }
 
-/* Schedule Area */
-#program {
-  background: #f3f4f3;
-}
-
-#pastevents {
-  background: #ffffff;
+#pastevents a {
+  color:white;
 }
 
 #schedule-tab {
