@@ -1171,6 +1171,10 @@ h1 {
   background: #f3f4f3;
 }
 
+#pastevents {
+  background: #ffffff;
+}
+
 #schedule-tab {
   position: relative;
 }
