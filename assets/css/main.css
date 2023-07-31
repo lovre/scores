@@ -1100,9 +1100,9 @@ h1 {
 .counter-section .counter {
   position: relative;
   background: rgba(255, 255, 255, 0.3);
-  padding: 35px 0;
+  text-align: center;
+  padding: 10px 0px 30px 0px;
   border-radius: 4px;
-  padding-left: 45px;
   margin-left: 20px;
 }
 
@@ -1111,18 +1111,18 @@ h1 {
   color: #fff;
   text-align: center;
   line-height: 50px;
-  width: 60px;
-  height: 60px;
+  width: 50px;
+  height: 50px;
   border-radius: 50%;
   position: absolute;
   top: 47%;
-  left: -30px;
+  left: -15px;
   margin-top: -25px;
 }
 
 .counter-section .counter .icon i {
-  font-size: 24px;
-  line-height: 60px;
+  font-size: 20px;
+  line-height: 50px;
   color: #fff;
 }
 
@@ -1137,6 +1137,10 @@ h1 {
   font-size: 50px;
   margin-bottom: 20px;
   font-weight: 700;
+}
+
+.counter-item {
+  width: 20%;
 }
 
 /* Schedule Area */
