@@ -1534,6 +1534,43 @@ h1 {
   text-fill-color: transparent;
 }
 
+/* Program */
+#program-table {
+  display: inline-block;
+  border: none;
+}
+
+#program-table td {
+  //border: none;
+  text-align: left;
+  padding-left: 10px;
+  vertical-align: top;
+}
+
+#program-table em {
+  color: darkred;
+}
+
+.program-general {
+  font-weight: bold;
+}
+
+.program-section {
+  font-weight: bold;
+  font-size: larger;
+  padding-top: 16px;
+  padding-bottom: 4px;
+  border-bottom: 2px solid #cf3d32;
+}
+
+.program-section-end {
+  border-bottom: 2px solid #cf3d32;
+}
+
+.program-after-section {
+  padding-top: 16px;
+}
+
 /* Gallery Section */
 #gallery {
   background: #f3f4f3;
