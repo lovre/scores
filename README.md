@@ -1,3 +1,3 @@
-# SCORES '24
+# SCORES '25
 
 Student Computing Research Symposium
