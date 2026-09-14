@@ -2552,3 +2552,17 @@ footer {
   margin-bottom: 3%;
   display: block
 }
+
+.caption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    font-size: 0.9rem;
+    margin-bottom: 20px;
+    height: 30px;
+}
