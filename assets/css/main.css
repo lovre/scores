@@ -1587,6 +1587,16 @@ h1 {
   border-bottom: 2px solid #cf3d32;
 }
 
+.program-parallel-events {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.program-parallel-events > div + div {
+  border-left: 1px solid #cf3d32;
+  padding-left: 10px;
+}
+
 .program-after-section {
   padding-top: 16px;
 }
